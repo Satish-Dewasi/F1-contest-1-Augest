@@ -1,0 +1,99 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter&display=swap');
+
+*{
+   margin: 0;
+   padding: 0;
+   box-sizing: border-box;
+}
+
+html{
+    font-size: 62.5%;
+}
+
+body{
+    padding-top:2%;
+    padding-bottom: 5%;
+    padding-left: 2%;
+    
+}
+
+section{
+    width: 98%;
+    margin-bottom: 5%;
+    height: auto;
+    padding: 2%;
+    position: relative;
+    
+}
+.blog{
+    border: 2px solid black;
+}
+
+h1{
+       margin-bottom: 2%;
+        font-family: Inter;
+        font-size: 6.4rem;
+        font-weight: 700;
+        line-height: 4.8rem;
+        letter-spacing: 0em;
+        text-align: left;       
+}
+
+.blog p{
+    font-family: Inter;
+    font-size: 3rem;
+    font-weight: 400;
+    line-height: 5.5rem;
+    letter-spacing: 0em;
+    text-align: left;
+    
+}
+
+ div{
+    margin-top: 2%;
+}
+
+ div a{
+        font-family: Inter;
+        font-size: 3rem;
+        font-weight: 400;
+        line-height: 39px;
+        letter-spacing: 0em;
+        text-align: left;
+        color: black;   
+}
+
+
+.image{
+        position: relative;
+        width: 95%;
+        height: 70rem;
+        position: relative;
+        margin-top: 3%;
+} 
+
+.image img{
+    width: 80rem;
+    height: 50rem;
+    margin-top: 2%;
+}
+
+
+.trivia{
+  height: auto;
+}
+
+ol{
+    padding: 2%;
+}
+
+li{
+    font-family: Inter;
+    font-size: 3rem;
+    font-weight: 400;
+    line-height: 4.8rem;
+    letter-spacing: 0em;
+    text-align: left;
+    
+}
+
